@@ -2,6 +2,6 @@ class Student < User
 
 
 def initialize 
-ARRAY = [] 
+KNOWLEDGE = [] 
 end
 end
